@@ -1,3 +1,3 @@
-# atrium_notebooks
+# Python Data Analysis Exercises Repository
 
-Prácitcas de Python en Jupyter Notebooks, parte del Master en Análisis de Datos e Inteligencia de Negocio del Grupo Atrium.
+Este repositorio contiene una colección de ejercicios en Python. 
